@@ -41,3 +41,7 @@ This work investigates how **edge computing combined with federated learning (FL
 - It balances **accuracy, privacy, and efficiency**.  
 - Future work: improved aggregation methods & real-world deployment.
 
+### Publication
+- This work was published in a paper titled "Edge-based Federated Learning Methods for Remaining Useful Life Estimation in IIoT" which was included in the ebook titled "Algorithmic Aspects of Cloud Computing".
+- https://link.springer.com/book/10.1007/978-3-031-94677-6?sap-outbound-id=9285FB74D8B72C95E70411D25BAFFCB561F74CCE
+- https://www.researchgate.net/publication/392719038_Edge-Based_Federated_Learning_Methods_for_Remaining_Useful_Life_Estimation_in_IIoT
